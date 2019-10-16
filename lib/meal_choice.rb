@@ -6,6 +6,5 @@ def meal_choice (veg1, veg2, protein = "meat")
   "What a nutririous meal!"
 end
 
-puts meal_choice("carrots", "peas")
 
 
